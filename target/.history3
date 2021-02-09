@@ -1,0 +1,64 @@
+1612600863022:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/14/jmsny25j05gbhd1py7_9g46r0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/ryanmcavoy/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1612601242161:hello-world --help
+1612601247604:run
+1612601301916:run/HelloWorld
+1612601306836:HelloWorld
+1612601311130:run
+1612601340008:hello-world --help
+1612601790563:main
+1612601795339:run
+1612602094804:run --help
+1612602133785:run --target ryan
+1612602690058:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/14/jmsny25j05gbhd1py7_9g46r0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/ryanmcavoy/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1612602845421:compile
+1612604562803:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/14/jmsny25j05gbhd1py7_9g46r0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/ryanmcavoy/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1612604693694:run
+1612606660425:compile
+1612606682167:FirstBull --help
+1612606688172:run FirstBull --help
+1612606702662:run FirstBull --target ryan
+1612608241668:compile
+1612608255462:run FirstBull --target ryan
+1612608274694:run --target ryan
+1612608286306:run FirstBull --target ryan
+1612608310957:compile
+1612608315646:run FirstBull --target ryan
+1612608354947:compile
+1612608357677:run FirstBull --target ryan
+1612608667258:compile
+1612608669222:run FirstBull --target ryan
+1612608679349:run --target ryan
+1612608697877:compile
+1612608700096:run --target ryan
+1612608729532:compile
+1612608733081:run --target ryan
+1612608816614:compile
+1612608819582:run --target ryan
+1612608845846:run --target ryan --lines 9
+1612608909677:compile
+1612608912919:run --target ryan --lines 9
+1612608919360:run --target ryan
+1612609187640:compile
+1612609192171:run --target ryan
+1612609745954:compile
+1612609750044:run --target ryan
+1612609768247:run --coin ryan
+1612609816079:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002
+1612609969335:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realmoney true
+1612609977635:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney true
+1612609981660:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney
+1612611194289:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney true
+1612611206678:compile
+1612611210668:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney true
+1612611239739:compile
+1612611242454:run --coin ryan --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney true
+1612611399334:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney true
+1612614379800:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney
+1612614403672:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002
+1612614595395:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realmoney
+1612614598790:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney
+1612618806606:compile
+1612618842063:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney
+1612619195687:run --coin emma --apiKey sdfdsf --quoteOrderQty 0.00002 --realMoney
+1612619209570:run --coin emma --apiKey sdfdsf --secret xyz --quoteOrderQty 0.00002 --realMoney
+1612866105056:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/14/jmsny25j05gbhd1py7_9g46r0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/ryanmcavoy/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2020.3/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure

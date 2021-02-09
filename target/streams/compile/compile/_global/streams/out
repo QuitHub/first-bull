@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ryanmcavoy/fullStackRyan/first-bull/src/main/scala/FirstBull.scala:14:57: not found: value App[0m
+[0m[[0m[31merror[0m] [0m[0m    (coin, apiKey, secret, quoteOrderQty, realMoney) => App.app(coin, apiKey, secret, quoteOrderQty, realMoney)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
